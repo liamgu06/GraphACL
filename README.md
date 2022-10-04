@@ -11,8 +11,8 @@ Learning with Adversarial Contrastive Learning".
 
 ## Scripts
 
-#### to run GraphACL on IMDB-M dataset: 
+#### To run GraphACL on IMDB-M dataset: 
 `python main.py`
 
-#### to run GraphACL* on IMDB-M dataset:
+#### To run GraphACL* on IMDB-M dataset:
 `python main.py --model graphacl_star`

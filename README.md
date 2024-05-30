@@ -1,6 +1,6 @@
 # GraphACL
 
-This is our PyTorch implementation for the paper, "Self-supervised Graph-level Representation
+PyTorch implementation for the paper, "Self-supervised Graph-level Representation
 Learning with Adversarial Contrastive Learning".
 
 ## Dependencies
